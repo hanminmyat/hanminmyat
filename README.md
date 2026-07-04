@@ -23,7 +23,7 @@
 - 🤖 Deep-diving into **agentic coding** with Claude Code, MCP & AI-powered workflows
 - 🎓 Master's student @ **SIIT, Thammasat University** (ICT)
 - 📄 Researching **post-quantum cryptography** for drone systems & cloud IoD
-- 📫 Reach me: **mr.hanminmyat@gmail.com**
+- 📫 Reach me: **hanminmyat8@gmail.com**
 
 <br clear="right"/>
 
