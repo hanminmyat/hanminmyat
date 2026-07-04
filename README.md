@@ -12,26 +12,26 @@
 
 <br/>
 
-<!-- 🌌 About Me + GIF -->
-<img align="right" width="360" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ## 🧑‍🚀 About Me
+
+<!-- 🌌 About Me + GIF -->
+<img align="right" width="240" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 - ☁️ **DevOps Engineer** working across **AWS · GCP · Azure · Alibaba Cloud**
 - 🔐 Exploring **cloud security & DevSecOps** — on a mission toward **Security Architect**
 - 🤖 Deep-diving into **agentic coding** with Claude Code, MCP & AI-powered workflows
 - 🎓 Master's student @ **SIIT, Thammasat University** (ICT)
 - 📄 Researching **post-quantum cryptography** for drone systems & cloud IoD
-- 🇲🇲 Based in Myanmar — building apps with local cultural impact
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **mr.hanminmyat@gmail.com**
 
 <br clear="right"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/han-min-myat">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mr.hanminmyat@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hanminmyat">
@@ -75,16 +75,13 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/42980099-e4be-4f2c-853f-e63afd0e8371/public_url" title="View verified credential on Credly">
-  <img src="PASTE-YOUR-BADGE-PNG-URL-HERE" width="110" alt="Your Certification"/>
+  <img src="https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="110" alt="Associate Cloud Engineer Certification"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/4cd25829-efdb-447a-8b2f-5f93b0391349/public_url" title="View verified credential on Credly">
-  <img src="PASTE-YOUR-BADGE-PNG-URL-HERE-2" width="110" alt="Your Certification 2"/>
+  <img src="https://images.credly.com/size/110x110/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="110" alt="AI-Skills-Fest"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.credly.com/badges/YOUR-BADGE-ID-3" title="Your Cert 3">
-  <img src="https://images.credly.com/size/110x110/PASTE-IMAGE-PATH/image.png" width="110" alt="Cert 3"/>
-</a>
 
 <sub>✨ Click any badge to verify on Credly</sub>
 
@@ -99,11 +96,14 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<a href="https://1drv.ms/i/c/2fe4208460202ed4/IQDULiBghCDkIIAvBRgAAAAAAZWD_tRkVzV4x7HfhbsVSMM?e=z5soHq" title="View certificate scan (hard copy)">
+  <img src="https://img.shields.io/badge/🇯🇵_FE-ITPEC_%2F_IPA_Japan-1a1a2e?style=for-the-badge&labelColor=302b63"/>
+</a>
 
-<img src="https://img.shields.io/badge/🛡️_Cert_Without_Icon-Issuer_Name-1a1a2e?style=for-the-badge&labelColor=302b63"/>
-<img src="https://img.shields.io/badge/🔐_Another_Cert-Issuer_Name-1a1a2e?style=for-the-badge&labelColor=302b63"/>
+<!-- <img src="https://img.shields.io/badge/🛡️_Cert_Without_Icon-Issuer_Name-1a1a2e?style=for-the-badge&labelColor=302b63"/>
+<img src="https://img.shields.io/badge/🔐_Another_Cert-Issuer_Name-1a1a2e?style=for-the-badge&labelColor=302b63"/> -->
 
-</div>
+</div> 
 
 <!-- ═══════════════════════════════════════════════════════════
      TIER 3 — ANTHROPIC FLEET (many certs → collapsible hangar)
@@ -120,8 +120,11 @@
   <img src="https://img.shields.io/badge/Anthropic-Certified_Fleet-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
-**🛰️ Orbit 1 — Agentic Engineering**
-`Claude Code in Action` · `Building Agents with MCP`
+| Certification | Focus |
+|:--------------|:------|
+| [Claude 101](https://verify.skilljar.com/c/3d3ranr8mu4g) | Claude fundamentals |
+| [Claude Code 101](https://verify.skilljar.com/c/mzri7vs6or73) | Claude Code basics |
+| [Claude Code in Action](https://verify.skilljar.com/c/f74e3sm2fbpd) | Agentic coding workflows |
 
 #### 🌌 Orbit 2 — API & Development
 | Certification | Focus |
@@ -140,7 +143,9 @@
 <br/>
 
 <div align="center">
-  <sub>🔭 <b>In-flight:</b> Security Architect track — next waypoint: <i>your next cert here</i></sub>
+  <sub>🔭 <b>In-flight:</b> Security Architect track — next waypoint: Loading...</sub>
+  
+  <!-- <sub>🔭 <b>In-flight:</b> Security Architect track — next waypoint: <i>your next cert here</i></sub> -->
 </div>
 
 ---
@@ -148,18 +153,13 @@
 ## 📡 Mission Telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanminmyat&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanminmyat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00F5FF"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=hanminmyat&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hanminmyat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00F5FF"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanminmyat&hide_border=true&theme=tokyonight&background=0d1117&ring=00F5FF&fire=FF6B9D&currStreakLabel=00F5FF"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanminmyat&theme=tokyonight&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,PullRequest"/>
-</div>
-
 ---
 
 <!-- 🌠 Footer -->
