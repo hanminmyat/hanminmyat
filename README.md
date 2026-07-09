@@ -37,9 +37,8 @@
   <a href="https://github.com/hanminmyat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+![](https://komarev.com/ghpvc/?username=hanminmyat&abbreviated=true&color=orange&style=plastic)
 </div>
-
----
 
 ## 🛸 Tech Constellation
 
