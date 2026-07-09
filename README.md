@@ -37,7 +37,8 @@
   <a href="https://github.com/hanminmyat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-![](https://komarev.com/ghpvc/?username=hanminmyat&abbreviated=true&color=orange&style=plastic)
+  <img src="https://komarev.com/ghpvc/?username=hanminmyat&abbreviated=true&color=blueviolet&label=PROFILE+VIEWS" width="140"  alt="Profile Views"/>
+
 </div>
 
 ## 🛸 Tech Constellation
